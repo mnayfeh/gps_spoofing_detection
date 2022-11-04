@@ -17,7 +17,7 @@ If you have any porblems we are glad to provide assistance. **Please do provide 
 
 Maintainer of this project:
 
-Mohamamd Nayfeh<br/>
+Mohammad Nayfeh<br/>
 m.nayfeh@hotmail.com
 
 Khair Al Shamaileh<br/>
