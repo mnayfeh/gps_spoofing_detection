@@ -7,7 +7,9 @@ Python codes used for training, validaton and testing of the ML classifiers usin
 ## Location independent
 Python codes used for training, validaton and testing of the ML classifiers using the location independent dataset.
 ## Videos
-This folder contains videos showcasing a screen recording of the attack on the drone through QGround control.
+Videos showcasing a screen recording of the attack on the drone through QGround control caan be viewed via the following link.
+
+https://drive.google.com/drive/folders/1AbdV4n8hUv073W-Mhi8vcJvlAsdXOd66
 ## Contact/Help
 If you have any porblems we are glad to provide assistance. **Please do provide a complete problem description containing**
 1. What exactly are you trying to do?
