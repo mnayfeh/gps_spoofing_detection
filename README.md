@@ -6,6 +6,8 @@ In this folder, the complete collected dataset used for training and testing the
 Python codes used for training, validaton and testing of the ML classifiers using the location dependent dataset.
 ## Location independent
 Python codes used for training, validaton and testing of the ML classifiers using the location independent dataset.
+## Raspberry Pi implementation
+Python code used to implement the ML classifier on a COEX Clover drone via an on-board Raspberry Pi. 
 ## Videos
 Videos showcasing a screen recording of the attack on the drone through QGround control can be viewed via the following link.
 
