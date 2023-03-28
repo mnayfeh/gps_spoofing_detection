@@ -32,7 +32,7 @@ def mavlink_cb(msg):
 	mav_msg = link.decode(mavlink.convert_to_bytes(msg))
 	x = str(mav_msg)
 	if "GPS" in x:
-		input = [mav_msg.lat, mav_msg.lon, mav_msg.alt, mav_msg.eph, mav_msg.epv, mav_msg.vel, mav_msg.cog, mav_msg.satellites_visible]
+		input = [mav_msg.lat, mav_msg.lon, mav_msg.alt, mav_msg.eph, mav_msg.epv, (mav_msg.vel)/100, mav_msg.cog, mav_msg.satellites_visible]
 		with open("RF.pkl", 'rb') as pickle_file:
 			clf = pickle.load(pickle_file)
 		input = np.array(input)
